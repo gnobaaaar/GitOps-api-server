@@ -24,6 +24,8 @@
 ### - Python + FastApi &nbsp;
 ### - Docker and Kubernetes
 ### - Kustomize
+### - AWS Cli
+### - Linux
 </br>
 
 ## :open_file_folder: 결과물
