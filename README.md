@@ -21,7 +21,8 @@
 ### - Terraform
 ### - AWS (EKS) &nbsp;
 ### - GitOps (GitAction + ArgoCD) &nbsp;
-### - Python + FastApi
+### - Python + FastApi &nbsp;
+### - Docker and Kubernetes
 </br>
 
 ## :open_file_folder: 결과물
