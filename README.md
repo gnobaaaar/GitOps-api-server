@@ -24,6 +24,10 @@
 ### - Python + FastApi
 </br>
 
+## :open_file_folder: 결과물
+
+
+
 ## :open_file_folder: project : 레포지토리
 </br>1. terraform EKS : https://github.com/gnobaaaar/eks-terraform-module
 </br>2. GitOps (gitaction + argoCD) : https://github.com/gnobaaaar/GitOps-api-server
