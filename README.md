@@ -25,7 +25,7 @@
 ### - Python + FastApi &nbsp;
 ### - Docker and Kubernetes
 ### - Kustomize
-### - AWS Cli
+### - AWS CLI
 ### - Linux
 </br>
 
