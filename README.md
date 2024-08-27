@@ -29,7 +29,7 @@
 </br>2. GitOps : https://github.com/gnobaaaar/GitOps-api-server
 </br>3. k8s manifest (Kustomize) : https://github.com/gnobaaaar/k8s-manifest-repo
 
-### Contributors : 프로젝트 인원
+### Contributors
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Song121099"><img src="https://avatars.githubusercontent.com/u/70850937?v=4" width="100px;" alt=""/><br /><sub><b>Song121099</b></sub></a><br/></td>
