@@ -12,7 +12,7 @@
 </br>2.1 Python + FastAPI 기반 api server 생성
 </br>2.2 api server 도커 컨테이너화
 
-3. GitOps CICD
+3. GitOps CI/CD
 </br>3.1 CI : 컨테이너 빌드 후 도커 컨테이너 ECR 업로드
 </br>3.2 CD : argoCD를 통해 명시된 이미지 태그에 해당하는 ECR 이미지로 쿠버네티스 서비스 앱 배포
 </br>3.3 모니터링 : argoCD를 통한 정상배포 확인
