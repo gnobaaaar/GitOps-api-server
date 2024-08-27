@@ -10,7 +10,7 @@ GitOps 기반 파이프라인 API 서비스 배포
 <img width="800" alt="procjet architecture" src="https://i.postimg.cc/hPwMWBwP/project-architect.png">
 
 ### EKS 구성도
-<img width="800" alt="eks architecture" src="https://i.postimg.cc/jdXwPQ6V/eks-architect.png">
+<img width="800" alt="eks architecture" src="https://i.postimg.cc/VLBXf0K6/2024-08-27-2-19-06.png">
 </br>
 
 ## :open_file_folder: 주요 기능
