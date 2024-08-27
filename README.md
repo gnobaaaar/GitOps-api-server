@@ -25,8 +25,8 @@
 </br>
 
 ## :open_file_folder: project : 레포지토리
-</br>1. terraform IaC : https://github.com/gnobaaaar/eks-terraform-module
-</br>2. GitOps : https://github.com/gnobaaaar/GitOps-api-server
+</br>1. terraform EKS : https://github.com/gnobaaaar/eks-terraform-module
+</br>2. GitOps (gitaction + argoCD) : https://github.com/gnobaaaar/GitOps-api-server
 </br>3. k8s manifest (Kustomize) : https://github.com/gnobaaaar/k8s-manifest-repo
 </br>
 </br>
