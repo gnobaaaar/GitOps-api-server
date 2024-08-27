@@ -9,8 +9,8 @@
 </br>Terraform : AWS의 관리형 쿠버네티스인 EKS를 구축
 
 2. api server
-</br>2.1 python 기반 api server 생성
-</br>2.2 api server 도커 컨테이너화
+</br>2.1 Python 기반 api server 생성
+</br>2.2 Api server 도커 컨테이너화
 
 3. GitOps CICD
 </br>3.1 CI : 빌드 후 도커 컨테이너 ECR 배포
