@@ -2,7 +2,7 @@
 
 ## :open_file_folder: 구성도
 <img width="1058" alt="스크린샷 2022-07-30 오후 6 02 10" src="https://user-images.githubusercontent.com/65750746/181903494-c3bf810b-151f-449f-bf0f-e6346a150449.png">
-
+</br>
 
 ## :open_file_folder: 주요 기능
 1. IaC
@@ -15,17 +15,18 @@
 3. GitOps CICD
 </br>3.1 CI : 빌드 후 도커 컨테이너 ECR 배포
 </br>3.2 CD : argoCD를 통해 명시된 이미지 태그에 해당하는 컨테이너로 쿠버네티스 배포
+</br>
 
 ## :open_file_folder: 적용 기술
 ### - Terraform
 ### - AWS (EKS) &nbsp;
 ### - GitOps (GitAction + ArgoCD) &nbsp;
 ### - Python + FastApi
-
+</br>
 
 ## :open_file_folder: 결과물 
 - 결과 캡처 화면
-
+</br>
 
 ### Contributors
 <table>
