@@ -17,19 +17,14 @@
 </br>3.2 CD : argoCD를 통해 명시된 이미지 태그에 해당하는 컨테이너로 쿠버네티스 배포
 
 ## :open_file_folder: 적용 기술
-### - Terraform <img width="25" height="25" alt="5" src="https://user-images.githubusercontent.com/65750746/181904360-2c2e2806-57dd-4f73-a1d5-af4d06117ad0.png">
-
-### - AWS (EKS) &nbsp; <img width="25" height="25" alt="5" src="https://user-images.githubusercontent.com/65750746/181905171-7c4fe95d-230e-42b1-a30b-6d3e95959249.png">
-
-### - GitOps (GitAction + ArgoCD) &nbsp; <img width="100" height="35" alt="15" src="https://user-images.githubusercontent.com/70850937/185784787-7f7d6189-3ee5-4861-9c8a-99b6749aa128.png">
-
-### - Python + FastApi <img width="30" height="30" alt="5" src="https://user-images.githubusercontent.com/70850937/185784932-a68229fb-c4c4-4ce7-a126-f0f81c5e1ce1.png">
-
+### - Terraform
+### - AWS (EKS) &nbsp;
+### - GitOps (GitAction + ArgoCD) &nbsp;
+### - Python + FastApi
 
 
 ## :open_file_folder: 결과물 
 - 결과 캡처 화면
-<img width="1171" alt="스크린샷 2022-07-30 오후 6 38 00" src="-">
 
 
 ### Contributors
