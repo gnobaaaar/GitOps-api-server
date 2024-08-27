@@ -18,7 +18,6 @@
 
 ## :open_file_folder: 적용 기술
 ### - Terraform <img width="25" height="25" alt="5" src="https://user-images.githubusercontent.com/65750746/181904360-2c2e2806-57dd-4f73-a1d5-af4d06117ad0.png">
-<br>
 
 ### - AWS (EKS) &nbsp; <img width="25" height="25" alt="5" src="https://user-images.githubusercontent.com/65750746/181905171-7c4fe95d-230e-42b1-a30b-6d3e95959249.png">
 
@@ -36,7 +35,7 @@
 ### Contributors
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Song121099"><img src="https://avatars.githubusercontent.com/u/70850937?v=4" width="100px;" alt=""/><br /><sub><b>Song121099</b></sub></a><br/></td>
+    <td align="center"><a href="https://github.com/Song121099"><img src="https://avatars.githubusercontent.com/u/70850937?v=4" width="100px;" alt=""/><br /><sub><b>Song121099</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/gnobaaaar"><img src="https://avatars.githubusercontent.com/u/65750746?v=4" width="100px;" alt=""/><br /><sub><b>gnobaaar</b></sub></a><br/></td>
   </tr>
   </table>
