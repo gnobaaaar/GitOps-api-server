@@ -23,6 +23,7 @@
 ### - GitOps (GitAction + ArgoCD) &nbsp;
 ### - Python + FastApi &nbsp;
 ### - Docker and Kubernetes
+### - Kustomize
 </br>
 
 ## :open_file_folder: 결과물
