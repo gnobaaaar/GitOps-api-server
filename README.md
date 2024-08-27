@@ -24,16 +24,16 @@ GitOps 기반 파이프라인 API 서비스 배포
 
 ## :open_file_folder: 적용 기술
 ### - Terraform
-</br>클라우드 리소스를 일관되고 반복 가능한 방식으로 프로비저닝하며, 인프라 상태를 코드로 관리하고, 변경사항을 자동으로 적용
+클라우드 리소스를 일관되고 반복 가능한 방식으로 프로비저닝하며, 인프라 상태를 코드로 관리하고, 변경사항을 자동으로 적용
 ### - AWS (EKS) &nbsp;
-</br>AWS의 관리형 Kubernetes 서비스인 EKS를 사용하여 클라우드에서 확장성과 안정성이 뛰어난 컨테이너화된 애플리케이션을 운영
+AWS의 관리형 Kubernetes 서비스인 EKS를 사용하여 클라우드에서 확장성과 안정성이 뛰어난 컨테이너화된 애플리케이션을 운영
 ### - GitOps (GitAction + ArgoCD) &nbsp;
-</br>GitHub Actions를 통해 CI/CD 파이프라인을 자동화하고, ArgoCD를 사용하여 Kubernetes 클러스터에 지속적으로 안전하게 배포
+GitHub Actions를 통해 CI/CD 파이프라인을 자동화하고, ArgoCD를 사용하여 Kubernetes 클러스터에 지속적으로 안전하게 배포
 ### - Python + FastApi &nbsp;
-</br>Python은 범용성과 확장성이 뛰어난 프로그래밍 언어이고, FastAPI는 고성능 API를 신속하게 개발
+Python은 범용성과 확장성이 뛰어난 프로그래밍 언어이고, FastAPI는 고성능 API를 신속하게 개발
 ### - Docker and Kubernetes
 ### - Kustomize
-</br>Kustomize를 통해 Kubernetes 매니페스트 파일을 템플릿화 하지 않고도 설정의 변형을 관리
+Kustomize를 통해 Kubernetes 매니페스트 파일을 템플릿화 하지 않고도 설정의 변형을 관리
 ### - AWS CLI
 ### - Linux
 </br>
