@@ -1,7 +1,7 @@
 # 테라폼으로 EKS 인프라 구축과 GitOps CICD 파이프라인을 통한 API 서버 배포
 ## :open_file_folder: 개요
-</br>AWS 관리형 쿠버네티스 서비스 EKS를 사용하여
-</br>GitOps 기반 파이프라인 API 서비스 배포
+AWS 관리형 쿠버네티스 서비스 EKS를 사용하여
+GitOps 기반 파이프라인 API 서비스 배포
 </br>
 
 ## :open_file_folder: 구성도
