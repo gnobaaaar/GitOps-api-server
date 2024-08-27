@@ -25,7 +25,10 @@
 </br>
 
 ## :open_file_folder: 결과물
-
+캡처화면
+</br>
+</br>
+</br>
 
 
 ## :open_file_folder: project : 레포지토리
