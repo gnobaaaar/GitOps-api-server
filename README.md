@@ -6,8 +6,10 @@ GitOps 기반 파이프라인 API 서비스 배포
 </br>
 
 ## :open_file_folder: 구성도
-<img width="1058" alt="스크린샷 2022-07-30 오후 6 02 10" src="https://i.postimg.cc/hPwMWBwP/project-architect.png">
-<img width="1058" alt="스크린샷 2022-07-30 오후 6 02 10" src="https://i.postimg.cc/jdXwPQ6V/eks-architect.png">
+<img width="800" alt="procjet architecture" src="[project-architect.png](https://postimg.cc/Mv71Vhqh)">
+<img width="800" alt="eks architecture" src="https://i.postimg.cc/jdXwPQ6V/eks-architect.png">
+[![project-architect.png](https://i.postimg.cc/hPwMWBwP/project-architect.png)](https://postimg.cc/Mv71Vhqh)
+[![eks-architect.png](https://i.postimg.cc/jdXwPQ6V/eks-architect.png)](https://postimg.cc/2V1SfWXT)
 </br>
 
 ## :open_file_folder: 주요 기능
