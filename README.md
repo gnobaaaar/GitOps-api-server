@@ -1,7 +1,7 @@
 # 테라폼으로 EKS 인프라 구축하고 api 서버 GitOps CICD 파이프라인 배포
 
 ## :open_file_folder: 구성도
-<img width="1058" alt="스크린샷 2022-07-30 오후 6 02 10" src="https://user-images.githubusercontent.com/65750746/181903494-c3bf810b-151f-449f-bf0f-e6346a150449.png">
+<img width="1058" alt="스크린샷 2022-07-30 오후 6 02 10" src="https://previews.123rf.com/images/aquir/aquir1906/aquir190606651/125693673-%EC%98%88%EC%8B%9C-%EC%8A%A4%ED%83%AC%ED%94%84-%EC%98%88-%EC%82%AC%EA%B0%81%ED%98%95-%EA%B7%B8%EB%9F%B0-%EC%A7%80-%EA%B8%B0%ED%98%B8%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%98%88%EC%8B%9C.jpg">
 </br>
 
 ## :open_file_folder: 주요 기능
@@ -24,11 +24,12 @@
 ### - Python + FastApi
 </br>
 
-## :open_file_folder: 결과물 
-- 결과 캡처 화면
-</br>
+## :open_file_folder: project : 레포지토리
+</br>1. terraform IaC : https://github.com/gnobaaaar/eks-terraform-module
+</br>2. GitOps : https://github.com/gnobaaaar/GitOps-api-server
+</br>3. k8s manifest (Kustomize) : https://github.com/gnobaaaar/k8s-manifest-repo
 
-### Contributors
+### Contributors : 프로젝트 인원
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Song121099"><img src="https://avatars.githubusercontent.com/u/70850937?v=4" width="100px;" alt=""/><br /><sub><b>Song121099</b></sub></a><br/></td>
