@@ -6,9 +6,10 @@ GitOps 기반 파이프라인 API 서비스 배포
 </br>
 
 ## :open_file_folder: 구성도
-### procjet architecture
+### 프로젝트 구성도
 <img width="800" alt="procjet architecture" src="https://i.postimg.cc/hPwMWBwP/project-architect.png">
-### EKS architecture
+
+### EKS 구성도
 <img width="800" alt="eks architecture" src="https://i.postimg.cc/jdXwPQ6V/eks-architect.png">
 </br>
 
