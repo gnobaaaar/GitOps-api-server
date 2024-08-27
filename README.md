@@ -43,11 +43,13 @@ GitOps 기반 파이프라인 API 서비스 배포
 </br>
 
 ## :open_file_folder: 결과물
-캡처화면
+### LB를 통한 api 파드 접근
+<img width="800" alt="final" src="https://i.postimg.cc/LsQ2pvdp/1724735388619287.png">
+### ArgoCD 최종 구성
+<img width="800" alt="argoCD" src="https://i.postimg.cc/j2PbybDx/1724735394927157.png">
 </br>
 </br>
 </br>
-
 
 ## :open_file_folder: 프로젝트 레포지토리
 </br>1. terraform EKS : https://github.com/gnobaaaar/eks-terraform-module
