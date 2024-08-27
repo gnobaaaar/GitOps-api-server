@@ -24,12 +24,13 @@ GitOps 기반 파이프라인 API 서비스 배포
 
 ## :open_file_folder: 적용 기술
 ### - Terraform
-사용 이유 : 클라우드 리소스를 일관되고 반복 가능한 방식으로 프로비저닝하며, 인프라 상태를 코드로 관리하고, 변경사항을 자동으로 적용
+</br>사용 이유 : 클라우드 리소스를 일관되고 반복 가능한 방식으로 프로비저닝하며, 인프라 상태를 코드로 관리하고, 변경사항을 자동으로 적용
 ### - AWS (EKS) &nbsp;
 ### - GitOps (GitAction + ArgoCD) &nbsp;
 ### - Python + FastApi &nbsp;
 ### - Docker and Kubernetes
 ### - Kustomize
+</br>사용 이유 : Kustomize를 통해 Kubernetes 매니페스트 파일을 템플릿화 하지 않고도 설정의 변형을 관리
 ### - AWS CLI
 ### - Linux
 </br>
