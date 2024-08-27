@@ -1,4 +1,4 @@
-# 💻 테라폼으로 EKS 인프라 구축하고 api 서버 GitOps CICD 파이프라인 배포
+# 테라폼으로 EKS 인프라 구축하고 api 서버 GitOps CICD 파이프라인 배포
 
 ## :open_file_folder: 구성도
 <img width="1058" alt="스크린샷 2022-07-30 오후 6 02 10" src="https://user-images.githubusercontent.com/65750746/181903494-c3bf810b-151f-449f-bf0f-e6346a150449.png">
@@ -8,7 +8,7 @@
 1. IaC
 </br>Terraform : AWS의 관리형 쿠버네티스인 EKS를 구축
 
-2. api server
+2. api server
 </br>2.1 Python 기반 api server 생성
 </br>2.2 Api server 도커 컨테이너화
 
